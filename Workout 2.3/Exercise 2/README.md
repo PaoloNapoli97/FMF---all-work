@@ -1,0 +1,1 @@
+I tried to do it without function, low-key the worst code I did in this 2 weeks, but it works.

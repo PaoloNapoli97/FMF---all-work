@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    background: rgba(255, 0, 195, 0.2);
+}
+main {
+    display: flex;
+    justify-content: center;
+}

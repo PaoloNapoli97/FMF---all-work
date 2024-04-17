@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+header{
+    height: 50px;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 60px;
+}
+
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    margin-top: 20px;
+    width: 70%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.buttonsform{
+    padding: 10px 0;
+}
+
+footer {
+    display: flex;
+    background-color: rgba(31, 29, 26, 0.25);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}

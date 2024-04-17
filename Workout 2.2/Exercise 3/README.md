@@ -1,0 +1,1 @@
+The problem it's not considering that the user could use grammar properly. A good input would insert spaces after a interpuction. Considering this, my code will always give a wrong result. 
